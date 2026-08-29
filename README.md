@@ -152,7 +152,3 @@ This dashboard helps stakeholders:
 ---
 
 ## ⭐ If you found this project useful, consider **starring the repository!**
-
-Good Loans = Fully Paid + Current
-
-Bad Loans = Charged Off
